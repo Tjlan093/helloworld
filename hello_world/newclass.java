@@ -1,3 +1,5 @@
+package hello_world;
+
 
 /**
  * Write a description of class newclass here.
@@ -16,7 +18,7 @@ public class newclass
     public newclass()
     {
         // initialise instance variables
-        x = 0;
+        x = 4;
     }
 
     /**
